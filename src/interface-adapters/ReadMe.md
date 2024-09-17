@@ -1,0 +1,2 @@
+This section is the entry point of the application. This section is meant to authenticate and validate user input. we can't use it in framework section as application will be dependent on framework.Thus not meeting up the first requirement of clean code architecture
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
